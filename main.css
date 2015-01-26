@@ -1,0 +1,78 @@
+body {
+	font-family: Verdana, sans-serif;
+	color: #666666;
+}
+
+/*Main Feature Text*/
+.mf {
+    padding-left: 30px;
+	font-size: 24px;
+	font-weight: bold;
+	color: #F07C17;
+	
+}
+
+/*Main Feature Box*/
+.features-block {
+	margin-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 30px;
+    color: #F07C17;
+	font-size: 20px;
+	font-weight: 100;
+	border-width: 1px;
+	border-color: #CCCCCC;
+	border-style: solid;
+}
+
+/*Main Features List Items*/
+.features-block-ul {
+	color: #666666;
+	font-size: 16px;
+	padding-top: 20px;
+    padding-left: 70px;
+	line-height: 2;
+}
+
+/*A Good Way to Start the Day text*/
+.paragraph-heading {
+	color: #F07C17;
+	font-size: 24px;
+	font-weight: bold;
+}
+
+/*Three Paragraphs of text*/
+.paragraphs {
+	font-size: 16px;
+	margin-top: 10px;
+	line-height: 2;
+	padding-top: 20px;
+
+}
+
+/*The whole page sits inside the container*/
+.container {
+
+}
+
+/*Mug Picture is here*/
+.col-md-5 {
+	padding-top: 20px;
+	padding-left: 15px;
+
+}
+
+.col-md-7 {
+
+
+}
+
+/*Text-Orange Udacity Mug Image is here*/
+.col-md-12 {
+	margin-top: 40px;
+	padding-top: 5px;
+	color: #666666;
+	font-size: 48px;
+	text-align: center;
+	
+}
